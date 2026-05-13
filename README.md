@@ -22,7 +22,6 @@
 |--------|-------------|--------------|
 | Page de profil GitHub | je savais pas que ça existait ça, c'est rigolo | Git, Markdown |
 | [Nihongo de moi](https://github.com/bambstk/nihongo) | un petit site avec des flashcard de vocabulaire de japonais que j'ai croisé | React, tailwindcss |
-| | |
 
 ## 📫 Me contacter
 
@@ -32,6 +31,8 @@
 ## 🌟 Tia vu le badge ???
 
 ![le badge avec le requin](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+
+![le badge avec le tireur rapide](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
 
 ---
 *Page mise à jour le 13/05/2026*
