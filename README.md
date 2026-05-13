@@ -32,6 +32,8 @@
 
 ![le badge avec le requin](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
+![le badge avec le tireur rapide](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+
 ---
 *Page mise à jour le 13/05/2026*
 
