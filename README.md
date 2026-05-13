@@ -34,6 +34,13 @@
 
 ![le badge avec le tireur rapide](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
 
+## ⭐ Recommandation
+
+> *"Leith est une personne sérieuse et motivée, 
+> avec qui j'ai eu le plaisir de collaborer en formation DevOps Azure. 
+> Je recommande de suivre son parcours !"*  
+> — Hajar, promotion DevOps Azure
+```
 ---
 *Page mise à jour le 13/05/2026*
 
