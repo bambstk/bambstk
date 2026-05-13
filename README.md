@@ -20,7 +20,7 @@
 
 | Projet | Description | Technologies |
 |--------|-------------|--------------|
-| Page de profil GitHub | Ma première contribution Git | Git, Markdown |
+| Page de profil GitHub | je savais pas que ça existait ça, c'est rigolo | Git, Markdown |
 | [Nihongo de moi](https://github.com/bambstk/nihongo) | un petit site avec des flashcard de vocabulaire de japonais que j'ai croisé | React, tailwindcss |
 
 ## 📫 Me contacter
