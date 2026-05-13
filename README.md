@@ -1,12 +1,12 @@
 # Bonjour, je suis Leith Zniber 👋
 
-## 🙋 À propos de moi
+## 🙋 À propos de moi 
 
 - 🎓 En formation **DevOps Azure** chez Simplon
 - 📍 Basé(e) à Toulouse
-- 💼 Objectif : _être cool_
+- 💼 Objectif : _être cool_ 
 - 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD (entrautre)
-- 🖲️ Je me plug un peu self host aussi en ce moment
+- 🖲️ Je me plug un peu self host aussi en ce moment 
 
 ## 🛠️ Compétences en cours d'acquisition
 
