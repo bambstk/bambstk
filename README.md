@@ -1,12 +1,12 @@
 # Bonjour, je suis Leith Zniber 👋
 
-## 🙋 À propos de moi 
+## 🙋 À propos de moi
 
 - 🎓 En formation **DevOps Azure** chez Simplon
 - 📍 Basé(e) à Toulouse
-- 💼 Objectif : _être cool_ 
+- 💼 Objectif : _être cool_
 - 🌱 En ce moment j'apprends : Git, Azure, Docker, CI/CD (entrautre)
-- 🖲️ Je me plug un peu self host aussi en ce moment 
+- 🖲️ Je me plug un peu self host aussi en ce moment
 
 ## 🛠️ Compétences en cours d'acquisition
 
@@ -27,6 +27,10 @@
 
 - LinkedIn : [Leith Zniber](https://fr.linkedin.com/in/leith-zniber)
 - Email : [leith.zniber@gmail.com](leith.zniber@gmail.com)
+
+## 🌟 Tia vu le badge ???
+
+![le badge avec le requin](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 ---
 *Page mise à jour le 13/05/2026*
