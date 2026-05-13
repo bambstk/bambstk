@@ -28,6 +28,10 @@
 - LinkedIn : [Leith Zniber](https://fr.linkedin.com/in/leith-zniber)
 - Email : [leith.zniber@gmail.com](leith.zniber@gmail.com)
 
+## 🌟 Tia vu le badge ???
+
+![le badge avec le requin](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+
 ---
 *Page mise à jour le 13/05/2026*
 
